@@ -2,6 +2,7 @@
 ## Introduction:
 #### Predicting Exam Scores using Machine Learning
 Since we are student of Coding Blocks, we are expected to work hard and get better results than others. To track our time and expected performance in the Machine Learning Challenge, Prateek bhayia has asked us to install walkatime on our device which is an efficient time tracking tool to track our daily coding activity. It measures how much time we have spend on coding daily.
+![](https://thumbs.dreamstime.com/z/cute-student-boy-working-computer-coding-web-banner-emblem-103896159.jpg)
 
 ## Problem Statement:
 In this challenge, Prateek bhayia gives us walkatime data of his past students and how they performed in the evaluation exam. Our task is to predict the score we will get given the amount of time we spend on coding daily.
